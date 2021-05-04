@@ -1,3 +1,5 @@
+Here is a basic usage of sqlite. Move onto inventory.sql for practice with the full project.
+
 Open VSCode
 
 open folder in VSCode consisting of sqlite3.exe and dev.db
